@@ -1,6 +1,10 @@
 # 💫 About Me:
   👩🏻‍💻🎨I am a UI/UX Designer.<br><br><br>🚀 Currently, I am:<br><br>->Enhancing my coding skills<br>->Working on academic and personal projects<br>->Exploring real-world applications of programming<br><br><br>🎯 My goal is to become :<br><br> -> An Gen Ai tool Developer<br>->Contribute to open-source projects<br>->Build impactful and innovative applications<br><br><br>📫 Connect with me:<br><br>Email: krishpatel3184@gmail.com<br>Behance:krish patel
 
+  # Certificate
+  1.UI/UX By Tutedude
+  2.Getting Started with Artificial Intelligence by IBM
+
 
 ## 🌐 Socials:
 
