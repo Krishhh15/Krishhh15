@@ -15,7 +15,8 @@
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KrishGraphix) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishpatel3184@gmail.com) 
 
 # 💻 Tech Stack:
-[![Flutter](https://shields.io)](https://flutter.dev) [![Dart](https://shields.io)](https://dart.dev)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
 
